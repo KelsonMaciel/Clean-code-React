@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KelsonMaciel/Clean-code-React/issues"
   },
-  "homepage": "https://github.com/KelsonMaciel/Clean-code-React#readme"
+  "homepage": "https://github.com/KelsonMaciel/Clean-code-React#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
