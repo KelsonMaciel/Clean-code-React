@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --passWithNoTests",
-    "test: whatch": "npm jest --  --whath",
-    "test: staged": "npm jest --  --findRelatedTests",
-    "test: ci": "npm jest --  --coverage"
+    "test:watch": "npm test --  --watch",
+    "test: staged": "npm test --  --findRelatedTests",
+    "test: ci": "npm test --  --coverage"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/KelsonMaciel/Clean-code-React#readme",
   "devDependencies": {
+    "@babel/preset-typescript": "^7.12.1",
     "@types/jest": "^26.0.14",
     "@types/node": "^14.11.10",
     "@typescript-eslint/eslint-plugin": "^4.4.1",
