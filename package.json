@@ -24,6 +24,7 @@
   "homepage": "https://github.com/KelsonMaciel/Clean-code-React#readme",
   "devDependencies": {
     "@babel/preset-typescript": "^7.12.1",
+    "@testing-library/react": "^11.1.1",
     "@types/axios": "^0.14.0",
     "@types/faker": "^5.1.2",
     "@types/jest": "^26.0.14",
